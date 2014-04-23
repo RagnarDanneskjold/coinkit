@@ -149,6 +149,9 @@ class PrimecoinKeypair(BitcoinKeypair):
 class DogecoinKeypair(BitcoinKeypair):
     _pubkeyhash_version_byte = 30
 
+class HobonickelsKeypair(BitcoinKeypair):
+    _pubkeyhash_version_byte = 22
+
 class WorldcoinKeypair(BitcoinKeypair):
     _pubkeyhash_version_byte = 73
 
