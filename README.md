@@ -74,6 +74,7 @@ Tools for Bitcoin and other cryptocurrencies.
 - Primecoin
 - Testnet
 - Worldcoin
+- Hobonickels
 - Megacoin
 - Feathercoin
 - Terracoin
